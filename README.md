@@ -15,10 +15,6 @@ Here are some ideas to get you started:
 ## Olá 🖖!
 👽Bem-vindo ao meu repositório! Este repositório foi criado para documentar meu progresso, projetos e aprendizado. 👽
 
-## Sobre Mim
-
-Meu nome é Samuel, e sou um estudante de Análise e Desenvolvimento de Sistemas apaixonado por programação e tecnologia. Estou atualmente focado em aprimorar minhas habilidades em C#/.NET e Java, e este repositório servirá como um registro do meu desenvolvimento ao longo do tempo.
-
 ## Tecnologias que uso no dia a dia
 
 <a href="https://github.com/R-SamuelBraga/R-SamuelBraga/edit/main/README.md">
