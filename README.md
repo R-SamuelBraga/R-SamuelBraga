@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **R-SamuelBraga/R-SamuelBraga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,56 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## Olá 🖖!
+👽Bem-vindo ao meu repositório! Este repositório foi criado para documentar meu progresso, projetos e aprendizado. 👽
+
+## Sobre Mim
+
+Meu nome é Samuel, e sou um estudante de Análise e Desenvolvimento de Sistemas apaixonado por programação e tecnologia. Estou atualmente focado em aprimorar minhas habilidades em C#/.NET e Java, e este repositório servirá como um registro do meu desenvolvimento ao longo do tempo.
+
+## Tecnologias que uso no dia a dia
+
+<a href="https://github.com/R-SamuelBraga/R-SamuelBraga/edit/main/README.md">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=R-SamuelBraga&show_icons=true&theme=dracula&count_private=true" />
+</a>
+<a href="https://github.com/R-SamuelBraga">
+  <img height=200  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=R-SamuelBraga&size_weight=0.5&count_weight=0.5&&layout=compact&theme=dracula" />
+</a>
+
+<hr/>
+<div>
+  <img height=45 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" />
+  <img height=45 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
+  <img height=45 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
+  <img height=45 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
+  <img height=45 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
+  <img height=45 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
+  <img height=45 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+  <img height=45 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" /> 
+</div>
+ <br/>
+
+- Linguagens: C#/.NET, Java
+- Desenvolvimento Web: ASP.NET, Spring Framework
+- Banco de Dados: SQL Server, MySQL, PostgreSQL, MongoDB
+- Controle de Versão: Git, GitHub
+
+## Projetos
+
+Neste repositório, você encontrará uma variedade de projetos relacionados. Alguns dos projetos notáveis incluem:
+
+## EM BREVE
+
+Certifique-se de explorar os projetos individuais para obter mais detalhes sobre cada um deles.
+
+## Site
+
+Além dos projetos, também mantenho um Site como portfólio para os meus projetos desenvolvidos
+[aqui](link_para_o_blog).
+
+## Contato
+
+- Email: [renansamuel.braga.ti@gmail.com](mailto:renansamuel.braga.ti@gmail.com)
+- LinkedIn: [Renan Samuel](https://www.linkedin.com/in/renan-samuel-braga-515547202/)
+
+Agradeço por visitar meu repositório e espero que você encontre informações úteis aqui. Feliz codificação!
