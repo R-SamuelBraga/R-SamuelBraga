@@ -41,22 +41,8 @@ Meu nome é Samuel, e sou um estudante de Análise e Desenvolvimento de Sistemas
 </div>
  <br/>
 
-- Linguagens: C#/.NET, Java
-- Desenvolvimento Web: ASP.NET, Spring Framework
-- Banco de Dados: SQL Server, MySQL, PostgreSQL, MongoDB
-- Controle de Versão: Git, GitHub
-
-## Projetos
-
-Neste repositório, você encontrará uma variedade de projetos relacionados. Alguns dos projetos notáveis incluem:
-
-## EM BREVE
-
-Certifique-se de explorar os projetos individuais para obter mais detalhes sobre cada um deles.
-
 ## Site
-
-Além dos projetos, também mantenho um Site como portfólio para os meus projetos desenvolvidos
+ Site do meu portifólio
 [aqui](link_para_o_blog).
 
 ## Contato
